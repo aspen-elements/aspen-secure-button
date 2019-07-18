@@ -1,7 +1,6 @@
 {
   "description": "This component is a button that is only visible to the person with the appropriate role",
   "name": "@aspen-elements/aspen-secure-button",
-  "version": "",
   "resolutions": {
     "inherits": "2.0.3",
     "samsam": "1.1.3",
@@ -18,5 +17,26 @@
     "@polymer/iron-demo-helpers": "^3.0.0",
     "wct-browser-legacy": "^1.0.1",
     "@webcomponents/webcomponentsjs": "^2.0.0"
-  }
+  },
+  "version": "0.5.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspen-elements/aspen-secure-button.git"
+  },
+  "keywords": [
+    "aspen",
+    "aspen-elements"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspen-elements/aspen-secure-button/issues"
+  },
+  "homepage": "https://github.com/aspen-elements/aspen-secure-button#readme"
 }
