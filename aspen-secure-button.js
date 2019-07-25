@@ -1,5 +1,5 @@
 import { PolymerElement,html } from '@polymer/polymer/polymer-element.js';
-import {AspenSecurableMixin} from'./asp-securable-mixin';
+import {AspenSecurableMixin} from'@aspen-elements/aspen-securable-mixin';
 import '@polymer/iron-icons/iron-icons.js'
 import '@polymer/paper-tooltip/paper-tooltip.js'
 import { afterNextRender } from '@polymer/polymer/lib/utils/render-status.js';
